@@ -1,0 +1,14 @@
+/home/arvyd/github/rust-snake/target/debug/deps/ncurses-487f9672e3250cf2.rmeta: /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/lib.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/constants.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/mod.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/wrapper.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/mod.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/wrapper.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/constants.rs
+
+/home/arvyd/github/rust-snake/target/debug/deps/ncurses-487f9672e3250cf2.d: /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/lib.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/constants.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/mod.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/wrapper.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/mod.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/ll.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/wrapper.rs /home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/constants.rs
+
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/lib.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/ll.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/constants.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/mod.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/ll.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/panel/wrapper.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/mod.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/ll.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/wrapper.rs:
+/home/arvyd/.cargo/registry/src/github.com-1ecc6299db9ec823/ncurses-5.101.0/src/menu/constants.rs:
